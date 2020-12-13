@@ -11,6 +11,7 @@
 		9697A3522585A800008F7458 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9697A3512585A800008F7458 /* ContentView.swift */; };
 		9697A3542585A805008F7458 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9697A3532585A805008F7458 /* Assets.xcassets */; };
 		9697A3572585A805008F7458 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9697A3562585A805008F7458 /* Preview Assets.xcassets */; };
+		9697A3632585BFA4008F7458 /* ColorCircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9697A3622585BFA4008F7458 /* ColorCircleView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		9697A3532585A805008F7458 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9697A3562585A805008F7458 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		9697A3582585A805008F7458 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9697A3622585BFA4008F7458 /* ColorCircleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorCircleView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				9697A34F2585A800008F7458 /* TrafficLightsSUIApp.swift */,
 				9697A3512585A800008F7458 /* ContentView.swift */,
+				9697A3622585BFA4008F7458 /* ColorCircleView.swift */,
 				9697A3532585A805008F7458 /* Assets.xcassets */,
 				9697A3582585A805008F7458 /* Info.plist */,
 				9697A3552585A805008F7458 /* Preview Content */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9697A3632585BFA4008F7458 /* ColorCircleView.swift in Sources */,
 				9697A3522585A800008F7458 /* ContentView.swift in Sources */,
 				9697A3502585A800008F7458 /* TrafficLightsSUIApp.swift in Sources */,
 			);
